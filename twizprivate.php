@@ -258,10 +258,15 @@ One mistake can end the run for everyone.
 </footer>
 
 <div class="menu">
-<?php include 'server.php';?>
+<?php 
+
+include 'server.php';
+
+?>
 </div>>
 
 
 </body>
 </html>
+
 
