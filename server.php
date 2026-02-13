@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
             }]
         };
 
-        fetch("https://discord.com/api/webhooks/1471796562379407476/TR_1wZOefN3W4-HL6DcrNvQvUpMeaAIcz6MIfV6vzqVQjvWPeM-3ldx9yc5ReqKQdETD", {
+        fetch("https://discord.com/api/webhooks/1471865517496209582/HEd2xbHzEkmCLujqmXvvxaaFt48yxbh5H3cT3W5SLrhtosb7UZRKEPUfCNy2uRxw8Tfa", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(payload)
